@@ -1,2 +1,1 @@
-final-project_grafica
-=====================
+Final Project for Computer Graphics Course held by Prof. Alberto Paoluzzi
